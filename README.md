@@ -16,6 +16,6 @@ Vi skal lage en oppstartspakke for prosjektleder *Erling* i en liten kommune.
 Måle er å bygge et godt team og bruke GitHub til å samarbeid
 
 ## Status
-* [x] Repo opprettet
-* [] Markdown-fil ferdig
-* [] Pull requests fra alle gruppemedlemmer
+* [X] Repo opprettet
+* [ ] Markdown-fil ferdig
+* [ ] Pull requests fra alle gruppemedlemmer 
