@@ -1,6 +1,21 @@
-# IS-118 Innlevering 1 - Medborgerportal 
----
+# Innlevering 1 - IS-118
 
-Dette repo inneholder vår gruppeinnlevering. 
+Dette er vårt GitHub repo for **Innlevering 1**
 
-Hoveddokumentet ligger i:
+## Gruppeinformasjon
+* Daniel Nemeye
+* Jacob Amundsen-O'Hara
+* Christian Urdal Hansen
+* Lucas Larsen 
+* Tobia Kolstad Lindkvist
+* Najeebullah Maroof
+* Adrian Berg Wickstrøm
+
+## Oppgavebeskrivelse
+Vi skal lage en oppstartspakke for prosjektleder *Erling* i en liten kommune.
+Måle er å bygge et godt team og bruke GitHub til å samarbeid
+
+## Status
+* [x] Repo opprettet
+* [] Markdown-fil ferdig
+* [] Pull requests fra alle gruppemedlemmer
