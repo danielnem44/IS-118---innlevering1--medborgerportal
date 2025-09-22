@@ -12,4 +12,4 @@
 ## 6. God kommunikasjon i teamet 
 
 ### Kilder
-*Lister kilder her*
+- [Memtime. (2024,3.april). *How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy#:~:text=At%20its%20core%2C%20the%20time,underestimating%20time%2C%20risks%2C%20and%20costs) 
