@@ -94,12 +94,14 @@ Ved å bruke historiske data, bryte ned oppgaver, legge til buffer, og ha åpen 
 ## 6. God kommunikasjon i teamet 
 
 ### Kilder
- Task-3-Relasjonelle-Kontrakter
+Task-3-Relasjonelle-Kontrakter
+
 *Lister kilder her*
-=======
+
  Task-1-sosial-og-demografisk-likhet
+ 
 *Lister kilder her*
-=======
+
 - [Memtime. (2024,3.april). *How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy#:~:text=At%20its%20core%2C%20the%20time,underestimating%20time%2C%20risks%2C%20and%20costs)
 - [Ohai. (2023,6.juli). *The planning fallacy:Why we underestimate project(and how to fit it).](https://www.ohai.ai/blog/planning-fallacy)
 - [Indeed.(u.å). "Time management in project management: Definition, benefits and tips](https://www.indeed.com/career-advice/career-development/time-in-project-management#:~:text=To%20make%20sure%20your%20team,Related%3A%20%2024)
