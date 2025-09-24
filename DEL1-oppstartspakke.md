@@ -6,9 +6,13 @@ Når et nytt prosjektteam skal jobbe sammen – og tiden er knapp – er det hel
 Her kommer sosial og demografisk likhet inn som en viktig faktor. Det handler om ting vi har til felles – språk, kultur, verdier eller erfaringer. Slike likheter fungerer som små broer mellom mennesker som ellers er ganske forskjellige. Når vi kjenner igjen noe i hverandre, føler vi oss tryggere. Det blir lettere å samarbeide, dele ideer og løse uenigheter på en god måte.
 Tidlig tillit er ikke bare hyggelig – det er helt nødvendig. Når folk føler seg trygge og sett, frigjøres energi til å være kreative, løse problemer og få ting gjort. Derfor er sosial og demografisk likhet ikke bare en bonus – det kan være selve nøkkelen til at prosjektet lykkes.
 
+---
+
 ## 2. Design av første møte
 
-## 3.  ### 3. Rammer for relasjonelle kontrakter
+---
+
+## 3. Rammer for relasjonelle kontrakter
 
 I en tradisjonell prosjektledelse er det vanlig å legge hovedvekten på det såkalte **jerntriangelet – tid, kostnad og kvalitet**. Selv om dette er avgjørende faktorer for å lykkes, er de sjelden passende i komplekse, tverrfaglige prosjekter som prosjektet *Erling skal lede: Den digitale medborgerportalen*. 
 
@@ -40,8 +44,10 @@ Disse relasjonelle kontraktene bidrar til å bygge et tryggere arbeidsmiljø der
 5. **Prosjekteier og prosjektleder**  
    Erling og den utvalgte prosjekteieren bør bli enige om rapportering, beslutningsmyndigheter og håndtering av fravær og avvik. Slik kan Erling jobbe effektivt innen sitt myndighet.
 
-## 4. Proaktiv konflikthåndering 
+---
 
+
+## 4. Proaktiv konflikthåndering 
 For å unngå konflikter på best mulig måte tidlig i prosjektet kan det være viktig at Erling setter stor vekt på kommunikasjon før og under utviklingen av medborgerportalen. Erling skal lede et team på syv til åtte personer. Disse personene har forskjellig profesjonell brakrunn som kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter. Når du har så mange personer mer forskjellig bakgrunn kan man anta at konflikter vil kunne oppstå. 
 
 Når alle partene har blitt orientert på prosjektet, kan det være lurt å ta en runde med teamet å høre de forskjellige ønsker og standpunkter for og så gå igjennom hva man er uenig om. Her kan det tenkes at man kan løse mulige konflikter som kunne oppstått senere, med en gang. (Gjøsund & Huseby, s. 203, 2015) Videre kan det være viktig at prosedyren legger vekt på forskjellige typer for kommunikasjon.
@@ -52,12 +58,9 @@ Når en eventuell konflikt oppstår er det viktig å håndtere den så raskt som
 
 Til sist hvis ikke personene klarer å bli enig, kan det være at Erling må ta en beslutning på hva som er best. Erling er prosjekt leder og har autoriteten til å ta beslutninger i prosjektet. Skulle det være nødvendig kan Erling ta en beslutning som er best for prosjektet for å unngå eskalering. 
 
+---
 
-
-
-## 5. Tidspress og planleggingsfellen
-
-5. Håndtering av tidspress og planleggingsfellen 
+## 5. Håndtering av tidspress og planleggingsfellen 
 
 Planleggingsfellen er en kjent "*cognitive bia*" som gjøre at folk undervurderer hvor lang tid en oppagave eller prosjekt egentlig tar. Psykologene Daniel Kahneman og Amos Tversky var de første som beskrev dette fenomenet. Problemet er at vi tenker på "*best case scenario*". Vi ser for oss alt som går perfekt, og vi glemmer de vanlige forsinkelsene og utfordringene som ofte oppstår. 
 
@@ -91,7 +94,14 @@ Alt dette gjøre at prosjektleder må være ekstra bevisst på hvordan tid estim
 
 Ved å bruke historiske data, bryte ned oppgaver, legge til buffer, og ha åpen kommunikasjon, reduserer man risikoen for feilestimater. Dette skaper et bedre arbeidsmiljø, mindre stress og, høyrer sjanser for å prosjektet lykkes.
 
+---
+
 ## 6. God kommunikasjon i teamet 
+
+
+
+---
+
 
 ### Kilder
 Task-3-Relasjonelle-Kontrakter
@@ -99,7 +109,7 @@ Task-3-Relasjonelle-Kontrakter
 *Lister kilder her*
 
  Task-1-sosial-og-demografisk-likhet
- 
+
 *Lister kilder her*
 
 - [Memtime. (2024,3.april). *How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy#:~:text=At%20its%20core%2C%20the%20time,underestimating%20time%2C%20risks%2C%20and%20costs)
