@@ -5,7 +5,7 @@ Dette er vårt GitHub repo for **Innlevering 1**
 ## Gruppeinformasjon
 
 - Adrian Berge Wickstrøm
-- Najeebullah Maroof¨
+- Najeebullah Maroof
 - Tobia Kolstad Lindkvist
 - Lucas Larsen
 - Christian Urdal Hansen
