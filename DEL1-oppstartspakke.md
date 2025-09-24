@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Oppstartspakke for medborgerportal - prosjektet
 
 ## 1. Rekruttering og sammensetning 
