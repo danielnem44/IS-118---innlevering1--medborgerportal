@@ -3,19 +3,31 @@
 Dette er vårt GitHub repo for **Innlevering 1**
 
 ## Gruppeinformasjon
-* Daniel Nemeye
-* Jacob Amundsen-O'Hara
-* Christian Urdal Hansen
-* Lucas Larsen 
-* Tobia Kolstad Lindkvist
-* Najeebullah Maroof
-* Adrian Berg Wickstrøm
+
+- Adrian Berge Wickstrøm
+- Najeebullah Maroof
+- Tobia Kolstad Lindkvist
+- Lucas Larsen
+- Christian Urdal Hansen
+- Jacob Admundsen-O'Hara
+- Daniel Nemeye
+
+**Dato:** 25. setember 2025
+**Emne:** IS-118 - Programmering og Prosjektsamarbeid
+
+---
 
 ## Oppgavebeskrivelse
-Vi skal lage en oppstartspakke for prosjektleder *Erling* i en liten kommune.
-Måle er å bygge et godt team og bruke GitHub til å samarbeid
+Vi skal lage en oppstartspakke for prosjektleder *Erling* i en liten kommune. 
+Målet er å bygge et godt team og bruke GitHub til samarbeid. 
+
+---
 
 ## Status
-* [X] Repo opprettet
-* [ ] Markdown-fil ferdig
-* [ ] Pull requests fra alle gruppemedlemmer 
+
+- [x] Repo opprettet
+- [ ] Markdown -skjelett opprettet
+- [ ] Alle seks deler fylt ut (2500-3000 ord)
+- [ ] PR fra alle gruppmedlemmer
+- [ ] Levering i Canvas før frist
+
