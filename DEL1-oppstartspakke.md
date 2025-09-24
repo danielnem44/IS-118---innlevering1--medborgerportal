@@ -16,7 +16,7 @@ For å åpne opp for åpen kommunikasjon blant teamet burde de orienteres om at 
 Når en eventuell konflikt oppstår er det viktig å håndtere den så raskt som mulig å ikke la den skurre for å se om den løses av seg selv. Her kan Erling gjøre noe så lett som å få en oppklaring i hva konflikten innebærer til å så få partene til å diskutere seg imellom for å se om det kan oppstå en enighet. «En oppklaring der og da vil kanskje føre til at arbeidet kan få en annen og mer positiv utvikling» (Gjøsund & Huseby, s. 199, 2015). Dersom det er interessekonflikt konflikten består av tidlig i prosjektet kan man ta i bruk diverse tiltak. Erling kan hente inn noen som er utenforstående, da kan denne personen bruke sine synspunkter for å se om en tidlig konflikt kan løses. (Gjøsund & Huseby, s. 199, 2015)
 
 Til sist hvis ikke personene klarer å bli enig, kan det være at Erling må ta en beslutning på hva som er best. Erling er prosjekt leder og har autoriteten til å ta beslutninger i prosjektet. Skulle det være nødvendig kan Erling ta en beslutning som er best for prosjektet for å unngå eskalering. 
-<img width="470" height="527" alt="image" src="https://github.com/user-attachments/assets/1ed0e6ed-3214-4df9-95ec-274c8bf0be50" />
+
 
 ## 5. Tidspress og planleggingsfellen
 
