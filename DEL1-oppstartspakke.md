@@ -7,6 +7,7 @@
 ## 3. Relasjonelle kontrakter
 
 ## 4. Proaktiv konflikthåndering 
+
 For å unngå konflikter på best mulig måte tidlig i prosjektet kan det være viktig at Erling setter stor vekt på kommunikasjon før og under utviklingen av medborgerportalen. Erling skal lede et team på syv til åtte personer. Disse personene har forskjellig profesjonell brakrunn som kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter. Når du har så mange personer mer forskjellig bakgrunn kan man anta at konflikter vil kunne oppstå. 
 
 Når alle partene har blitt orientert på prosjektet, kan det være lurt å ta en runde med teamet å høre de forskjellige ønsker og standpunkter for og så gå igjennom hva man er uenig om. Her kan det tenkes at man kan løse mulige konflikter som kunne oppstått senere, med en gang. (Gjøsund & Huseby, s. 203, 2015) Videre kan det være viktig at prosedyren legger vekt på forskjellige typer for kommunikasjon.
@@ -16,6 +17,8 @@ For å åpne opp for åpen kommunikasjon blant teamet burde de orienteres om at 
 Når en eventuell konflikt oppstår er det viktig å håndtere den så raskt som mulig å ikke la den skurre for å se om den løses av seg selv. Her kan Erling gjøre noe så lett som å få en oppklaring i hva konflikten innebærer til å så få partene til å diskutere seg imellom for å se om det kan oppstå en enighet. «En oppklaring der og da vil kanskje føre til at arbeidet kan få en annen og mer positiv utvikling» (Gjøsund & Huseby, s. 199, 2015). Dersom det er interessekonflikt konflikten består av tidlig i prosjektet kan man ta i bruk diverse tiltak. Erling kan hente inn noen som er utenforstående, da kan denne personen bruke sine synspunkter for å se om en tidlig konflikt kan løses. (Gjøsund & Huseby, s. 199, 2015)
 
 Til sist hvis ikke personene klarer å bli enig, kan det være at Erling må ta en beslutning på hva som er best. Erling er prosjekt leder og har autoriteten til å ta beslutninger i prosjektet. Skulle det være nødvendig kan Erling ta en beslutning som er best for prosjektet for å unngå eskalering. 
+
+
 
 
 ## 5. Tidspress og planleggingsfellen
