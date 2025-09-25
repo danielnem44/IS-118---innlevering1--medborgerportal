@@ -133,7 +133,7 @@ Task-3-Relasjonelle-Kontrakter
 - [Ohai. (2023,6.juli). *The planning fallacy:Why we underestimate project(and how to fit it).](https://www.ohai.ai/blog/planning-fallacy)
 - [Indeed.(u.å). "Time management in project management: Definition, benefits and tips](https://www.indeed.com/career-advice/career-development/time-in-project-management#:~:text=To%20make%20sure%20your%20team,Related%3A%20%2024)
 
+- [Gjøsund, P., & Huseby, R. (2015). *To eller flere...: Basiskunnskaper i gruppepsykologi* (4. utg.)](Cappelen Damm akademiske.)
 
-- [Gjøsund, P., & Huseby, R. (2015). *To eller flere...: Basiskunnskaper i gruppepsykologi* (4. utg.)](Cappelen Damm akademiske., )
 
 
