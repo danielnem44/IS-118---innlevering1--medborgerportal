@@ -27,7 +27,7 @@ Målet er å bygge et godt team og bruke GitHub til samarbeid.
 
 - [x] Repo opprettet
 - [X] Markdown -skjelett opprettet
-- [ ] Alle seks deler fylt ut (2500-3000 ord)
+- [X] Alle seks deler fylt ut (2500-3000 ord)
 - [X] PR fra alle gruppmedlemmer
 - [X] Levering i Canvas før frist
 
