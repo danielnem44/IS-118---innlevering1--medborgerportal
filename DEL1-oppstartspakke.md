@@ -18,8 +18,6 @@ Forslag til struktur (ca. 2–3 timer):
 6.	Oppsummering og neste steg (15 min), Bekrefte møtestruktur og rapportering.
 Effekt: Etter møtet har teamet en felles forståelse for mål og samarbeid, og et grunnlag for tillit og samhold.
 
-<img width="468" height="469" alt="image" src="https://github.com/user-attachments/assets/ce2d817f-8639-4f4d-8f9f-7f34c703b5c2" />
-
 ## 3.  ### 3. Rammer for relasjonelle kontrakter
 
 I en tradisjonell prosjektledelse er det vanlig å legge hovedvekten på det såkalte **jerntriangelet – tid, kostnad og kvalitet**. Selv om dette er avgjørende faktorer for å lykkes, er de sjelden passende i komplekse, tverrfaglige prosjekter som prosjektet *Erling skal lede: Den digitale medborgerportalen*. 
