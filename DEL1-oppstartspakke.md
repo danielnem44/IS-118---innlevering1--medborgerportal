@@ -8,6 +8,18 @@ Tidlig tillit er ikke bare hyggelig – det er helt nødvendig. Når folk føler
 
 ## 2. Design av første møte
 
+Første møte setter tonen for hele prosjektet og bør kombinere faglig klarhet med relasjonsbygging. Målet er å skape tidlig tillit, felles forståelse og tydelige rammer.
+Forslag til struktur (ca. 2–3 timer):
+1.	Velkommen og introduksjon (15 min), Erling presenterer prosjektets mål. Alle deler kort hvem de er og hva de forventer.
+2.	Prosjektmål og visjon (20 min), Diskusjon i plenum: Hva betyr 20 % økt engasjement i praksis?
+3.	Relasjonsbygging (“pseudo-arbeid”) (30 min), Smågrupper diskuterer en enkel case knyttet til portalen. Både sosialt og faglig læringsmoment.
+4.	Roller og forventninger (30 min),  Klargjør hvem som har ansvar for hva, beslutningsprosess og verktøy (Zoom, Discord, GitHub).
+5.	Samarbeidskultur (20 min), Kort workshop: Hvordan gir vi tilbakemeldinger og håndterer uenighet? Første utkast til relasjonell kontrakt.
+6.	Oppsummering og neste steg (15 min), Bekrefte møtestruktur og rapportering.
+Effekt: Etter møtet har teamet en felles forståelse for mål og samarbeid, og et grunnlag for tillit og samhold.
+
+<img width="468" height="469" alt="image" src="https://github.com/user-attachments/assets/ce2d817f-8639-4f4d-8f9f-7f34c703b5c2" />
+
 ## 3.  ### 3. Rammer for relasjonelle kontrakter
 
 I en tradisjonell prosjektledelse er det vanlig å legge hovedvekten på det såkalte **jerntriangelet – tid, kostnad og kvalitet**. Selv om dette er avgjørende faktorer for å lykkes, er de sjelden passende i komplekse, tverrfaglige prosjekter som prosjektet *Erling skal lede: Den digitale medborgerportalen*. 
