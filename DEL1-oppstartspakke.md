@@ -114,6 +114,11 @@ Ved å bruke historiske data, bryte ned oppgaver, legge til buffer, og ha åpen 
 ---
 
 ## 6. God kommunikasjon i teamet 
+Effektiv kommunikasjon utgjør en grunnleggende forutsetning for å lykkes i prosjektarbeid, særlig i heterogene og tverrfaglige team som det Erling skal lede. Kommunikasjon kan forstås både som en teknisk prosess for informasjonsutveksling og som en sosial prosess for å skape felles mening og forståelse (Jacobsen & Thorsvik, 2019). For å sikre god kommunikasjon i prosjektet bør prosjektlederen derfor etablere både strukturelle rammer og en samarbeidskultur som fremmer åpenhet, tillit og gjensidig respekt.
+
+En sentral utfordring i prosjektarbeid er risikoen for informasjonsasymmetri, der enkelte aktører har tilgang til mer eller bedre informasjon enn andre. Dette kan føre til misforståelser, ineffektivitet og i verste fall konflikter. For å motvirke dette bør prosjektlederen definere klare kommunikasjonskanaler og prosedyrer. I tillegg til de tekniske løsningene må kommunikasjonen ivaretas gjennom regelmessige møtepunkter. Faste statusmøter med tydelig agenda og skriftlige oppsummeringer bidrar til å skape transparens og sikre at alle teammedlemmer har en felles forståelse av fremdrift og utfordringer. 
+
+Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en balansert tilnærming: på den ene siden tydelige strukturer og verktøy som sikrer effektiv informasjonsflyt, og på den andre siden en kultur preget av åpenhet og tillit. Når disse elementene kombineres, øker sannsynligheten for at prosjektgruppen kan samarbeide effektivt og oppnå de ambisiøse målene som er satt for medborgerportalen.
 
 
 
