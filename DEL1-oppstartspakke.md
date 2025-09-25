@@ -25,8 +25,6 @@ Forslag til struktur (ca. 2–3 timer):
 
 Effekt: Etter møtet har teamet en felles forståelse for mål og samarbeid, og et grunnlag for tillit og samhold.
 
-## 3.  ### 3. Rammer for relasjonelle kontrakter
-=======
 ---
 
 ## 3. Rammer for relasjonelle kontrakter
@@ -38,8 +36,6 @@ Et prosjekt som dette samler deltakere med ulik bakgrunn, erfaring og interesser
 Disse relasjonelle kontraktene er viktige fordi de gir teamet en felles ramme for samarbeid basert på tillit og respekt. I et prosjekt som samler politikere, kommunale ansatte, tekniske eksperter og brukerrepresentanter, er det naturlig at forskjellige kulturer møtes i disse gruppene. Noen er vant til at arbeid og beslutninger skjer raskt, mens andre foretrekker diskusjoner og enighet blant gruppen. Uten å diskutere disse forskjellene i en kontrakt eller bare blant gruppen kan det oppstå problemer, misforståelser og bremse gruppens fremgang i fremtiden. 
 
 Disse relasjonelle kontraktene bidrar til å bygge et tryggere arbeidsmiljø der alle føler seg komfortable med deling av ideer, meninger og bekymringer. Det gjør også ansvarene og rollene i gruppen tydelige, slik at forventningene blir klare og opplyst for alle som er med på gruppen. Det legger også grunnlag for en felles gruppekultur der samarbeid og åpenhet står i sentrum. På denne måten blir kontrakten en type verktøy som ikke bare støtter målet til prosjektet, men også selve dynamikken og samarbeidet i gruppen. 
-
----
 
 #### Kontrakten bør inneholde:  
 
@@ -83,13 +79,13 @@ Planleggingsfellen er en kjent "*cognitive bia*" som gjøre at folk undervurdere
 
 Dette kan også være påvirket av "*optimism bias*", som gjør oss for positive, og "*self-serving bias*" hvor vi skylder på ytre faktorer for tidligere. I tillegg kommer sosialt press. Vi vil se flinke og profesjonelle ut, så vi lover korte frister og raske resultater.
 
-## Hvorfor det er viktig 
+### Hvorfor det er viktig 
 
 Å havne i "*planleggingsfellens*" kan skape store problemer i prosjektarbeid. Når prosjektleder eller team setter for korte tidsplaner eller for lave budsjetter, blir konsekvensene: økt stress og høyere risiko for utbrenthet i teamet, leveranser som ikke holder kvaliteten, konflikter og dårligere tillit fra interessenter (stakeholders) og kunder, demotivasjon når teamet stadig "*møter veggen*" og ikke klarer fristene. 
 
 Alt dette gjøre at prosjektleder må være ekstra bevisst på hvordan tid estimeres og planlegges. 
 
-## Strategier for å håndtere planleggingsfellen og tidspress
+### Strategier for å håndtere planleggingsfellen og tidspress
 
 **Bruke historiske data («outside view»)**. Ikke stol på magefølelsen. Sjekk tidligere prosjekter eller lignende oppgaver og bruk de tallene som grunnlag for nye estimere. Verktøy som «time trackers» eller logger gir objektiv data som hjelper deg å være mer realistisk.
 
@@ -129,9 +125,9 @@ Task-3-Relasjonelle-Kontrakter
 
 *Lister kilder her*
 
-- [Memtime. (2024,3.april). *How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy#:~:text=At%20its%20core%2C%20the%20time,underestimating%20time%2C%20risks%2C%20and%20costs)
-- [Ohai. (2023,6.juli). *The planning fallacy:Why we underestimate project(and how to fit it).](https://www.ohai.ai/blog/planning-fallacy)
-- [Indeed.(u.å). "Time management in project management: Definition, benefits and tips](https://www.indeed.com/career-advice/career-development/time-in-project-management#:~:text=To%20make%20sure%20your%20team,Related%3A%20%2024)
+- [Memtime. (2024,3.april). *How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy#:~:text=At%20its%20core%2C%20the%20time,underestimating%20time%2C%20risks%2C%20and%20costs, "Memtime")
+- [Ohai. (2023,6.juli). *The planning fallacy:Why we underestimate project(and how to fit it).](https://www.ohai.ai/blog/planning-fallacy, "Ohai")
+- [Indeed.(u.å). "Time management in project management: Definition, benefits and tips](https://www.indeed.com/career-advice/career-development/time-in-project-management#:~:text=To%20make%20sure%20your%20team,Related%3A%20%2024, "Indeed")
 
 - [Gjøsund, P., & Huseby, R. (2015). *To eller flere...: Basiskunnskaper i gruppepsykologi* (4. utg.)](Cappelen Damm akademiske.)
 
