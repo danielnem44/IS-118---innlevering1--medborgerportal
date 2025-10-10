@@ -134,6 +134,8 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 - Memtime. (2024, April 3). [*How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy)
 
+- Rolstadås, A. (2025, 30. juni). *Prosjektplanlegging. I Store norske leksikon.* (https://snl.no/prosjektplanlegging)
+
 
 
 
