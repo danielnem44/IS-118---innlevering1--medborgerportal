@@ -134,11 +134,12 @@ Task-3-Relasjonelle-Kontrakter
 
 *Lister kilder her*
 
-- [Memtime. (2024,3.april). *How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy#:~:text=At%20its%20core%2C%20the%20time,underestimating%20time%2C%20risks%2C%20and%20costs, "Memtime")
-- [Ohai. (2023,6.juli). *The planning fallacy:Why we underestimate project(and how to fit it).](https://www.ohai.ai/blog/planning-fallacy, "Ohai")
-- [Indeed.(u.å). "Time management in project management: Definition, benefits and tips](https://www.indeed.com/career-advice/career-development/time-in-project-management#:~:text=To%20make%20sure%20your%20team,Related%3A%20%2024, "Indeed")
 
-- [Gjøsund, P., & Huseby, R. (2015). *To eller flere...: Basiskunnskaper i gruppepsykologi* (4. utg.)](Cappelen Damm akademiske.)
+- Memtime. (2024, April 3). [*How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy)
 
+- Ohai. (2023, July 6). [*The planning fallacy: Why we underestimate projects (and how to fix it).*](https://www.ohai.ai/blog/the-planning-fallacy)
 
+- Indeed Editorial Team. (n.d.). [*Time management in project management: Definition, benefits and tips.*](https://www.indeed.com/career-advice/career-development/time-management-in-project-management)
+
+- Gjøsund, P., & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
 
