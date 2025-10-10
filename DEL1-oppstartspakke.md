@@ -127,6 +127,7 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 ### Kilder
 
+
 - Memtime. (2024, April 3). [*How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy)
 
 - Ohai. (2023, July 6). [*The planning fallacy: Why we underestimate projects (and how to fix it).*](https://www.ohai.ai/blog/the-planning-fallacy)
