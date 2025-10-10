@@ -7,7 +7,8 @@ Når et nytt prosjektteam skal jobbe sammen – og tiden er knapp – er det hel
 
 Her kommer sosial og demografisk likhet inn som en viktig faktor. Det handler om ting vi har til felles – språk, kultur, verdier eller erfaringer. Slike likheter fungerer som små broer mellom mennesker som ellers er ganske forskjellige. Når vi kjenner igjen noe i hverandre, føler vi oss tryggere. Det blir lettere å samarbeide, dele ideer og løse uenigheter på en god måte.
 
-Tidlig tillit er ikke bare hyggelig – det er helt nødvendig. Når folk føler seg trygge og sett, frigjøres energi til å være kreative, løse problemer og få ting gjort. Derfor er sosial og demografisk likhet ikke bare en bonus – det kan være selve nøkkelen til at prosjektet lykkes.
+Tidlig tillit er ikke bare hyggelig, det er helt nødvendig. Når folk føler seg trygge og sett, frigjøres energi til å være kreative, løse problemer og få ting gjort. Derfor er sosial og demografisk likhet ikke bare en bonus.et annet nøkkel tema er psykologsik trygghet i gruppa. Psykologisk trygghet handler om å føle seg trygg på å dele tanker, spørsmål og feil uten frykt for negative reaksjoner, noe som fremmer læring, samarbeid, kvalitet og utvikling i arbeidsmiljøet((Sagberg, 2020).
+
 
 Mangfold i prosjektgruppen gir flere fordeler. Ulike fagbakgrunner og perspektiver bidrar til bedre problemløsning, høyere grad av kreativitet og mer helhetlige løsninger. I dette prosjektet vil representanter fra kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter sikre at portalen utvikles med både tekniske, organisatoriske og samfunnsmessige hensyn i mente. Et variert team vil også kunne identifisere utfordringer og muligheter som ellers kunne blitt oversett, og slik bidra til å øke sjansen for at prosjektet faktisk oppnår målet om økt innbyggerengasjement.
 Samtidig bør prosjektgruppen ha en viss grad av sosial og demografisk likhet, for eksempel gjennom felles motivasjon og verdier knyttet til innbyggerdialog og offentlig nytte. Slike fellestrekk fremmer tillit og samhold, og gjør det enklere å etablere en god samarbeidskultur allerede i oppstartsfasen. Dette er spesielt viktig i prosjekter med stramme tidsrammer, der man ikke har tid til langvarige konflikter eller ineffektivitet.
@@ -135,6 +136,8 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 - Memtime. (2024, April 3). [*How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy)
 
 - Rolstadås, A. (2025, 30. juni). *Prosjektplanlegging. I Store norske leksikon.* (https://snl.no/prosjektplanlegging)
+
+- Sagberg, I. (2020). Psykologisk trygghet. Store norske leksikon. https://snl.no/psykologisk_trygghet 
 
 - Wahl, A. C. (2025, 30. september). "Relasjonelle kontrakter: Nøkkelen til bedre samarbeid og langsiktig suksess." Bull.(https://www.bull.no/artikler/anskaffelser/relasjonelle-kontrakter)
 
