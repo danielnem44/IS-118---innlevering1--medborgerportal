@@ -104,14 +104,6 @@ Ved å bruke historiske data, bryte ned oppgaver, legge til buffer, og ha åpen 
 
 
 ### Kilder
-Task-3-Relasjonelle-Kontrakter
-
-*Lister kilder her*
-
- Task-1-sosial-og-demografisk-likhet
-
-*Lister kilder her*
-
 
 - Memtime. (2024, April 3). [*How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy)
 
