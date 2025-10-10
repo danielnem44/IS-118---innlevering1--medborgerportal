@@ -136,6 +136,7 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 - Rolstadås, A. (2025, 30. juni). *Prosjektplanlegging. I Store norske leksikon.* (https://snl.no/prosjektplanlegging)
 
+- Wahl, A. C. (2025, 30. september). "Relasjonelle kontrakter: Nøkkelen til bedre samarbeid og langsiktig suksess." Bull.(https://www.bull.no/artikler/anskaffelser/relasjonelle-kontrakter)
 
 
 
