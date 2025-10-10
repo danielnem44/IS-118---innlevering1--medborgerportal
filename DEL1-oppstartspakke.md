@@ -126,13 +126,6 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 
 ### Kilder
-Task-3-Relasjonelle-Kontrakter
-
-*Lister kilder her*
-
- Task-1-sosial-og-demografisk-likhet
-
-*Lister kilder her*
 
 
 - Memtime. (2024, April 3). [*How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy)
