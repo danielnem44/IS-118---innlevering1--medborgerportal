@@ -34,9 +34,9 @@ Effekt: Etter møtet har teamet en felles forståelse for mål og samarbeid, og 
 
 ## 3. Rammer for relasjonelle kontrakter
 
-I en tradisjonell prosjektledelse er det vanlig å legge hovedvekten på det såkalte **jerntriangelet – tid, kostnad og kvalitet**. Selv om dette er avgjørende faktorer for å lykkes, er de sjelden passende i komplekse, tverrfaglige prosjekter som prosjektet *Erling skal lede: Den digitale medborgerportalen*. 
+I en tradisjonell prosjektledelse er det vanlig å legge hovedvekten på det såkalte **jerntriangelet – tid, kostnad og kvalitet**. Selv om dette er avgjørende faktorer for å lykkes, er de sjelden passende i komplekse, tverrfaglige prosjekter som prosjektet *Erling skal lede: Den digitale medborgerportalen*. (Rolstadås, A. (2025, 30. juni)
 
-Et prosjekt som dette samler deltakere med ulik bakgrunn, erfaring og interesser. Uten tydelige forventninger til samarbeidet kan forskjeller forbli en grunn for konflikter og misforståelser. Derfor burde prosjektet bygge på det vi kan kalle **relasjonelle kontrakter**. Disse er uforpliktende men forpliktende avtaler om hvordan man skal jobbe sammen. 
+Et prosjekt som dette samler deltakere med ulik bakgrunn, erfaring og interesser. Uten tydelige forventninger til samarbeidet kan forskjeller forbli en grunn for konflikter og misforståelser. Derfor burde prosjektet bygge på det vi kan kalle **relasjonelle kontrakter**. Disse er uforpliktende men forpliktende avtaler om hvordan man skal jobbe sammen.  (Wahl, A. C. (2025, 30. september)
 
 Disse relasjonelle kontraktene er viktige fordi de gir teamet en felles ramme for samarbeid basert på tillit og respekt. I et prosjekt som samler politikere, kommunale ansatte, tekniske eksperter og brukerrepresentanter, er det naturlig at forskjellige kulturer møtes i disse gruppene. Noen er vant til at arbeid og beslutninger skjer raskt, mens andre foretrekker diskusjoner og enighet blant gruppen. Uten å diskutere disse forskjellene i en kontrakt eller bare blant gruppen kan det oppstå problemer, misforståelser og bremse gruppens fremgang i fremtiden. 
 
