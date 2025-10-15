@@ -7,7 +7,8 @@ Når et nytt prosjektteam skal jobbe sammen – og tiden er knapp – er det hel
 
 Her kommer sosial og demografisk likhet inn som en viktig faktor. Det handler om ting vi har til felles – språk, kultur, verdier eller erfaringer. Slike likheter fungerer som små broer mellom mennesker som ellers er ganske forskjellige. Når vi kjenner igjen noe i hverandre, føler vi oss tryggere. Det blir lettere å samarbeide, dele ideer og løse uenigheter på en god måte.
 
-Tidlig tillit er ikke bare hyggelig – det er helt nødvendig. Når folk føler seg trygge og sett, frigjøres energi til å være kreative, løse problemer og få ting gjort. Derfor er sosial og demografisk likhet ikke bare en bonus – det kan være selve nøkkelen til at prosjektet lykkes.
+Tidlig tillit er ikke bare hyggelig, det er helt nødvendig. Når folk føler seg trygge og sett, frigjøres energi til å være kreative, løse problemer og få ting gjort. Derfor er sosial og demografisk likhet ikke bare en bonus.et annet nøkkel tema er psykologsik trygghet i gruppa. Psykologisk trygghet handler om å føle seg trygg på å dele tanker, spørsmål og feil uten frykt for negative reaksjoner, noe som fremmer læring, samarbeid, kvalitet og utvikling i arbeidsmiljøet((Sagberg, 2020).
+
 
 Mangfold i prosjektgruppen gir flere fordeler. Ulike fagbakgrunner og perspektiver bidrar til bedre problemløsning, høyere grad av kreativitet og mer helhetlige løsninger. I dette prosjektet vil representanter fra kommunal administrasjon, politisk ledelse, fagspesialister og brukerrepresentanter sikre at portalen utvikles med både tekniske, organisatoriske og samfunnsmessige hensyn i mente. Et variert team vil også kunne identifisere utfordringer og muligheter som ellers kunne blitt oversett, og slik bidra til å øke sjansen for at prosjektet faktisk oppnår målet om økt innbyggerengasjement.
 Samtidig bør prosjektgruppen ha en viss grad av sosial og demografisk likhet, for eksempel gjennom felles motivasjon og verdier knyttet til innbyggerdialog og offentlig nytte. Slike fellestrekk fremmer tillit og samhold, og gjør det enklere å etablere en god samarbeidskultur allerede i oppstartsfasen. Dette er spesielt viktig i prosjekter med stramme tidsrammer, der man ikke har tid til langvarige konflikter eller ineffektivitet.
@@ -126,7 +127,11 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 
 ### Kilder
+- Gjøsund, P., & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
 
+- Indeed Editorial Team. (n.d.). [*Time management in project management: Definition, benefits and tips.*](https://www.indeed.com/career-advice/career-development/time-management-in-project-management)
+
+- Ohai. (2023, July 6). [*The planning fallacy: Why we underestimate projects (and how to fix it).*](https://www.ohai.ai/blog/the-planning-fallacy)
 
 - Memtime. (2024, April 3). [*How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy)
 
@@ -134,5 +139,4 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 - Indeed Editorial Team. (n.d.). [*Time management in project management: Definition, benefits and tips.*](https://www.indeed.com/career-advice/career-development/time-in-project-management)
 
-- Gjøsund, P., & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
 
