@@ -80,19 +80,19 @@ Til sist hvis ikke personene klarer å bli enig, kan det være at Erling må ta 
 
 ## 5. Håndtering av tidspress og planleggingsfellen 
 
-Planleggingsfellen er en kjent "*cognitive bia*" som gjøre at folk undervurderer hvor lang tid en oppagave eller prosjekt egentlig tar. Psykologene Daniel Kahneman og Amos Tversky var de første som beskrev dette fenomenet. Problemet er at vi tenker på "*best case scenario*". Vi ser for oss alt som går perfekt, og vi glemmer de vanlige forsinkelsene og utfordringene som ofte oppstår. 
+Planleggingsfellen er en kjent "*cognitive bia*" som gjøre at folk undervurderer hvor lang tid en oppagave eller prosjekt egentlig tar. Psykologene Daniel Kahneman og Amos Tversky var de første som beskrev dette fenomenet. Problemet er at vi tenker på "*best case scenario*". Vi ser for oss alt som går perfekt, og vi glemmer de vanlige forsinkelsene og utfordringene som ofte oppstår(Memtime, 2024) 
 
-Dette kan også være påvirket av "*optimism bias*", som gjør oss for positive, og "*self-serving bias*" hvor vi skylder på ytre faktorer for tidligere. I tillegg kommer sosialt press. Vi vil se flinke og profesjonelle ut, så vi lover korte frister og raske resultater.
+Dette kan også være påvirket av "*optimism bias*", som gjør oss for positive, og "*self-serving bias*" hvor vi skylder på ytre faktorer for tidligere feil (Ohai,2023). I tillegg kommer sosialt press. Vi vil se flinke og profesjonelle ut, så vi lover korte frister og raske resultater.
 
 ### Hvorfor det er viktig 
 
-Å havne i "*planleggingsfellens*" kan skape store problemer i prosjektarbeid. Når prosjektleder eller team setter for korte tidsplaner eller for lave budsjetter, blir konsekvensene: økt stress og høyere risiko for utbrenthet i teamet, leveranser som ikke holder kvaliteten, konflikter og dårligere tillit fra interessenter (stakeholders) og kunder, demotivasjon når teamet stadig "*møter veggen*" og ikke klarer fristene. 
+Å havne i "*planleggingsfellens*" kan skape store problemer i prosjektarbeid. Når prosjektleder eller team setter for korte tidsplaner eller for lave budsjetter, blir konsekvensene ofte økt stress, høyere risiko for utbrenthet i teamet, leveranser som ikke holder kvaliteten, konflikter og dårligere tillit fra interessenter (stakeholders) og kunder (Indeed Editorial Team, n.d.). Dette kan også føre til demotivasjon når teamet stadig "*møter veggen*" og ikke klarer fristene. 
 
 Alt dette gjøre at prosjektleder må være ekstra bevisst på hvordan tid estimeres og planlegges. 
 
 ### Strategier for å håndtere planleggingsfellen og tidspress
 
-**Bruke historiske data («outside view»)**. Ikke stol på magefølelsen. Sjekk tidligere prosjekter eller lignende oppgaver og bruk de tallene som grunnlag for nye estimere. Verktøy som «time trackers» eller logger gir objektiv data som hjelper deg å være mer realistisk.
+**Bruke historiske data («outside view»)**. Ikke stol på magefølelsen. Sjekk tidligere prosjekter eller lignende oppgaver og bruk de tallene som grunnlag for nye estimere(Memtime, 2024) Verktøy som «time trackers» eller logger gir objektiv data som hjelper deg å være mer realistisk.
 
 **Bryt ned oppgaver.**  Del store og vage oppgaver i mindre, konkrete deloppgaver. Det er mye enklere å anslå tid på små steg enn på en stor uklar oppgave. Dette gir også bedre oversikt over avhengigheter mellom oppgavene.
 
@@ -104,7 +104,7 @@ Alt dette gjøre at prosjektleder må være ekstra bevisst på hvordan tid estim
 
 **Planlegg pauser og energi.** Tidspress kan føre til at man glemmer å ta pauser, men det gir dårligere produktivitet. Legg inn korte pauser og finn ut når på dagen du jobber best. Legg viktige oppgaver i dine mest produktive timer.
 
-**Kommuniser realistiske tidslinjer.**  Være ærlig med interessenter. Hvis noe tar lengre tid enn planlagt, si fra tidlig og forhandle nye frister. Det er bedre enn å love noe umulig og levere for sent.
+**Kommuniser realistiske tidslinjer.**  Være ærlig med interessenter. Hvis noe tar lengre tid enn planlagt, si fra tidlig og forhandle nye frister. Det er bedre enn å love noe umulig og levere for sent (Indeed Editorial Team, n.d.).
 
 **Visualiser implementering.**  Forskning viser at det å konkret se for seg når og hvor man skal jobbe på oppgaven («implementation intention») gjør «goal-setting» mer realistisk og gjennomførbar.
 
