@@ -130,9 +130,9 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 - Memtime. (2024, April 3). [*How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy)
 
-- Ohai. (2023, July 6). [*The planning fallacy: Why we underestimate projects (and how to fix it).*](https://www.ohai.ai/blog/the-planning-fallacy)
+- Ohai. (2023, July 6). [*The planning fallacy: Why we underestimate projects (and how to fix it).*](https://www.ohai.ai/blog/planning-fallacy)
 
-- Indeed Editorial Team. (n.d.). [*Time management in project management: Definition, benefits and tips.*](https://www.indeed.com/career-advice/career-development/time-management-in-project-management)
+- Indeed Editorial Team. (n.d.). [*Time management in project management: Definition, benefits and tips.*](https://www.indeed.com/career-advice/career-development/time-in-project-management)
 
 - Gjøsund, P., & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
 
