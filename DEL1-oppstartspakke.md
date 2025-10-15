@@ -128,7 +128,10 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 ### Kilder
 
-- Ohai. (2023, July 6). [*The planning fallacy: Why we underestimate projects (and how to fix it).*](https://www.ohai.ai/blog/the-planning-fallacy)
+- Gjøsund, P., & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
+
+- Indeed Editorial Team. (n.d.). [*Time management in project management: Definition, benefits and tips.*](https://www.indeed.com/career-advice/career-development/time-in-project-management)
+
 
 - Memtime. (2024, April 3). [*How to avoid the planning fallacy.*](https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy)
 
@@ -138,5 +141,4 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 - Sagberg, I. (2020). Psykologisk trygghet. Store norske leksikon. https://snl.no/psykologisk_trygghet 
 
-- Gjøsund, P., & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
-
+- Wahl, A. C. (2025, 30. september). "Relasjonelle kontrakter: Nøkkelen til bedre samarbeid og langsiktig suksess." Bull.(https://www.bull.no/artikler/anskaffelser/relasjonelle-kontrakter)
