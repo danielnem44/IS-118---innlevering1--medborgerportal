@@ -34,9 +34,9 @@ Effekt: Etter møtet har teamet en felles forståelse for mål og samarbeid, og 
 
 ## 3. Rammer for relasjonelle kontrakter
 
-I en tradisjonell prosjektledelse er det vanlig å legge hovedvekten på det såkalte **jerntriangelet – tid, kostnad og kvalitet**. Selv om dette er avgjørende faktorer for å lykkes, er de sjelden passende i komplekse, tverrfaglige prosjekter som prosjektet *Erling skal lede: Den digitale medborgerportalen*. (Rolstadås, A. (2025, 30. juni)
+I en tradisjonell prosjektledelse er det vanlig å legge hovedvekten på det såkalte **jerntriangelet – tid, kostnad og kvalitet**. Selv om dette er avgjørende faktorer for å lykkes, er de sjelden passende i komplekse, tverrfaglige prosjekter som prosjektet *Erling skal lede: Den digitale medborgerportalen*. (Rolstadås, 2025)
 
-Et prosjekt som dette samler deltakere med ulik bakgrunn, erfaring og interesser. Uten tydelige forventninger til samarbeidet kan forskjeller forbli en grunn for konflikter og misforståelser. Derfor burde prosjektet bygge på det vi kan kalle **relasjonelle kontrakter**. Disse er uforpliktende men forpliktende avtaler om hvordan man skal jobbe sammen.  (Wahl, A. C. (2025, 30. september)
+Et prosjekt som dette samler deltakere med ulik bakgrunn, erfaring og interesser. Uten tydelige forventninger til samarbeidet kan forskjeller forbli en grunn for konflikter og misforståelser. Derfor burde prosjektet bygge på det vi kan kalle **relasjonelle kontrakter**. Disse er uforpliktende men forpliktende avtaler om hvordan man skal jobbe sammen. (Wahl, 2025)
 
 Disse relasjonelle kontraktene er viktige fordi de gir teamet en felles ramme for samarbeid basert på tillit og respekt. I et prosjekt som samler politikere, kommunale ansatte, tekniske eksperter og brukerrepresentanter, er det naturlig at forskjellige kulturer møtes i disse gruppene. Noen er vant til at arbeid og beslutninger skjer raskt, mens andre foretrekker diskusjoner og enighet blant gruppen. Uten å diskutere disse forskjellene i en kontrakt eller bare blant gruppen kan det oppstå problemer, misforståelser og bremse gruppens fremgang i fremtiden. 
 
@@ -92,7 +92,7 @@ Alt dette gjøre at prosjektleder må være ekstra bevisst på hvordan tid estim
 
 ### Strategier for å håndtere planleggingsfellen og tidspress
 
-**Bruke historiske data («outside view»)**. Ikke stol på magefølelsen. Sjekk tidligere prosjekter eller lignende oppgaver og bruk de tallene som grunnlag for nye estimere(Memtime, 2024) Verktøy som «time trackers» eller logger gir objektiv data som hjelper deg å være mer realistisk.
+**Bruke historiske data («outside view»)**. Ikke stol på magefølelsen. Sjekk tidligere prosjekter eller lignende oppgaver og bruk de tallene som grunnlag for nye estimere (Memtime, 2024) Verktøy som «time trackers» eller logger gir objektiv data som hjelper deg å være mer realistisk.
 
 **Bryt ned oppgaver.**  Del store og vage oppgaver i mindre, konkrete deloppgaver. Det er mye enklere å anslå tid på små steg enn på en stor uklar oppgave. Dette gir også bedre oversikt over avhengigheter mellom oppgavene.
 
@@ -104,7 +104,7 @@ Alt dette gjøre at prosjektleder må være ekstra bevisst på hvordan tid estim
 
 **Planlegg pauser og energi.** Tidspress kan føre til at man glemmer å ta pauser, men det gir dårligere produktivitet. Legg inn korte pauser og finn ut når på dagen du jobber best. Legg viktige oppgaver i dine mest produktive timer.
 
-**Kommuniser realistiske tidslinjer.**  Være ærlig med interessenter. Hvis noe tar lengre tid enn planlagt, si fra tidlig og forhandle nye frister. Det er bedre enn å love noe umulig og levere for sent (Indeed Editorial Team, n.d.).
+**Kommuniser realistiske tidslinjer.**  Være ærlig med interessenter. Hvis noe tar lengre tid enn planlagt, si fra tidlig og forhandle nye frister. Det er bedre enn å love noe umulig og levere for sent. (Indeed Editorial Team, n.d.)
 
 **Visualiser implementering.**  Forskning viser at det å konkret se for seg når og hvor man skal jobbe på oppgaven («implementation intention») gjør «goal-setting» mer realistisk og gjennomførbar.
 
