@@ -115,7 +115,7 @@ Ved å bruke historiske data, bryte ned oppgaver, legge til buffer, og ha åpen 
 ---
 
 ## 6. God kommunikasjon i teamet 
-Effektiv kommunikasjon utgjør en grunnleggende forutsetning for å lykkes i prosjektarbeid, særlig i heterogene og tverrfaglige team som det Erling skal lede. Kommunikasjon kan forstås både som en teknisk prosess for informasjonsutveksling og som en sosial prosess for å skape felles mening og forståelse (Jacobsen & Thorsvik, 2019). For å sikre god kommunikasjon i prosjektet bør prosjektlederen derfor etablere både strukturelle rammer og en samarbeidskultur som fremmer åpenhet, tillit og gjensidig respekt.
+Effektiv kommunikasjon utgjør en grunnleggende forutsetning for å lykkes i prosjektarbeid, særlig i heterogene og tverrfaglige team som det Erling skal lede. Kommunikasjon kan forstås både som en teknisk prosess for informasjonsutveksling og som en sosial prosess for å skape felles mening og forståelse (Jacobsen & Thorsvik, s. 9, 2019). For å sikre god kommunikasjon i prosjektet bør prosjektlederen derfor etablere både strukturelle rammer og en samarbeidskultur som fremmer åpenhet, tillit og gjensidig respekt.
 
 En sentral utfordring i prosjektarbeid er risikoen for informasjonsasymmetri, der enkelte aktører har tilgang til mer eller bedre informasjon enn andre. Dette kan føre til misforståelser, ineffektivitet og i verste fall konflikter. For å motvirke dette bør prosjektlederen definere klare kommunikasjonskanaler og prosedyrer. I tillegg til de tekniske løsningene må kommunikasjonen ivaretas gjennom regelmessige møtepunkter. Faste statusmøter med tydelig agenda og skriftlige oppsummeringer bidrar til å skape transparens og sikre at alle teammedlemmer har en felles forståelse av fremdrift og utfordringer. 
 
@@ -129,6 +129,9 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 ### Kilder
 
 - Gjøsund, P., & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
+
+- Jacobsen, D. I. & Thorsvik, J. (2019). *Hvordan organisasjoner fungerer* (5. utg.). Fagbokforlaget
+
 
 - Indeed Editorial Team. (n.d.). *Time management in project management: Definition, benefits and tips.* Indeed. https://www.indeed.com/career-advice/career-development/time-in-project-management
 
