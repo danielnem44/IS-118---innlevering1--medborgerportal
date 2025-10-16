@@ -70,9 +70,9 @@ For å unngå konflikter på best mulig måte tidlig i prosjektet kan det være 
 
 Når alle partene har blitt orientert på prosjektet, kan det være lurt å ta en runde med teamet å høre de forskjellige ønsker og standpunkter for og så gå igjennom hva man er uenig om. Her kan det tenkes at man kan løse mulige konflikter som kunne oppstått senere, med en gang. (Gjøsund & Huseby, s. 203, 2015) Videre kan det være viktig at prosedyren legger vekt på forskjellige typer for kommunikasjon.
 
-For å åpne opp for åpen kommunikasjon blant teamet burde de orienteres om at deres standpunkter burde begrunnes så tydelig som mulig. Prosjektet har en varighet på 15 måneder. På bakgrunn av prosjektlengden er det mulig at Erling kan lage i prosedyren sin, at en gang i uken, hver uke settes det av tid til et team møte. Under dette møtet kan teammedlemmene dele forskjellige standpunkter og uenigheter for å se om man kan komme til enighet, før det blir til konflikt. Her kan det være viktig at Erling setter ekstra stor vekt på at alle skal få muligheten til å drøfte konstruktive tilbakemeldinger på hverandres tanker og standpunkter. (Gjøsund & Huseby, s. 202-203, 2015)
+For å åpne opp for åpen kommunikasjon blant teamet burde de orienteres om at deres standpunkter burde begrunnes så tydelig som mulig. Prosjektet har en varighet på 15 måneder. På bakgrunn av prosjektlengden er det mulig at Erling kan lage i prosedyren sin, at en gang i uken, hver uke settes det av tid til et team møte. Under dette møtet kan teammedlemmene dele forskjellige standpunkter og uenigheter for å se om man kan komme til enighet, før det blir til konflikt. Her kan det være viktig at Erling setter ekstra stor vekt på at alle skal få muligheten til å drøfte konstruktive tilbakemeldinger på hverandres tanker og standpunkter. (Gjøsund & Huseby, 2015, s. 202-203)
 
-Når en eventuell konflikt oppstår er det viktig å håndtere den så raskt som mulig å ikke la den skurre for å se om den løses av seg selv. Her kan Erling gjøre noe så lett som å få en oppklaring i hva konflikten innebærer til å så få partene til å diskutere seg imellom for å se om det kan oppstå en enighet. «En oppklaring der og da vil kanskje føre til at arbeidet kan få en annen og mer positiv utvikling» (Gjøsund & Huseby, s. 199, 2015). Dersom det er interessekonflikt konflikten består av tidlig i prosjektet kan man ta i bruk diverse tiltak. Erling kan hente inn noen som er utenforstående, da kan denne personen bruke sine synspunkter for å se om en tidlig konflikt kan løses. (Gjøsund & Huseby, s. 199, 2015)
+Når en eventuell konflikt oppstår er det viktig å håndtere den så raskt som mulig å ikke la den skurre for å se om den løses av seg selv. Her kan Erling gjøre noe så lett som å få en oppklaring i hva konflikten innebærer til å så få partene til å diskutere seg imellom for å se om det kan oppstå en enighet. «En oppklaring der og da vil kanskje føre til at arbeidet kan få en annen og mer positiv utvikling» (Gjøsund & Huseby, s. 199, 2015). Dersom det er interessekonflikt konflikten består av tidlig i prosjektet kan man ta i bruk diverse tiltak. Erling kan hente inn noen som er utenforstående, da kan denne personen bruke sine synspunkter for å se om en tidlig konflikt kan løses. (Gjøsund & Huseby, 2015, s. 199)
 
 Til sist hvis ikke personene klarer å bli enig, kan det være at Erling må ta en beslutning på hva som er best. Erling er prosjekt leder og har autoriteten til å ta beslutninger i prosjektet. Skulle det være nødvendig kan Erling ta en beslutning som er best for prosjektet for å unngå eskalering. 
 
@@ -80,13 +80,13 @@ Til sist hvis ikke personene klarer å bli enig, kan det være at Erling må ta 
 
 ## 5. Håndtering av tidspress og planleggingsfellen 
 
-Planleggingsfellen er en kjent "*cognitive bia*" som gjøre at folk undervurderer hvor lang tid en oppagave eller prosjekt egentlig tar. Psykologene Daniel Kahneman og Amos Tversky var de første som beskrev dette fenomenet. Problemet er at vi tenker på "*best case scenario*". Vi ser for oss alt som går perfekt, og vi glemmer de vanlige forsinkelsene og utfordringene som ofte oppstår(Memtime, 2024) 
+Planleggingsfellen er en kjent "*cognitive bia*" som gjøre at folk undervurderer hvor lang tid en oppagave eller prosjekt egentlig tar. Psykologene Daniel Kahneman og Amos Tversky var de første som beskrev dette fenomenet. Problemet er at vi tenker på "*best case scenario*". Vi ser for oss alt som går perfekt, og vi glemmer de vanlige forsinkelsene og utfordringene som ofte oppstår (Memtime, 2024) 
 
 Dette kan også være påvirket av "*optimism bias*", som gjør oss for positive, og "*self-serving bias*" hvor vi skylder på ytre faktorer for tidligere feil (Ohai,2023). I tillegg kommer sosialt press. Vi vil se flinke og profesjonelle ut, så vi lover korte frister og raske resultater.
 
 ### Hvorfor det er viktig 
 
-Å havne i "*planleggingsfellens*" kan skape store problemer i prosjektarbeid. Når prosjektleder eller team setter for korte tidsplaner eller for lave budsjetter, blir konsekvensene ofte økt stress, høyere risiko for utbrenthet i teamet, leveranser som ikke holder kvaliteten, konflikter og dårligere tillit fra interessenter (stakeholders) og kunder (Indeed Editorial Team, n.d.). Dette kan også føre til demotivasjon når teamet stadig "*møter veggen*" og ikke klarer fristene. 
+Å havne i "*planleggingsfellens*" kan skape store problemer i prosjektarbeid. Når prosjektleder eller team setter for korte tidsplaner eller for lave budsjetter, blir konsekvensene ofte økt stress, høyere risiko for utbrenthet i teamet, leveranser som ikke holder kvaliteten, konflikter og dårligere tillit fra interessenter (stakeholders) og kunder (Indeed Editorial Team, 2025). Dette kan også føre til demotivasjon når teamet stadig "*møter veggen*" og ikke klarer fristene. 
 
 Alt dette gjøre at prosjektleder må være ekstra bevisst på hvordan tid estimeres og planlegges. 
 
@@ -104,7 +104,7 @@ Alt dette gjøre at prosjektleder må være ekstra bevisst på hvordan tid estim
 
 **Planlegg pauser og energi.** Tidspress kan føre til at man glemmer å ta pauser, men det gir dårligere produktivitet. Legg inn korte pauser og finn ut når på dagen du jobber best. Legg viktige oppgaver i dine mest produktive timer.
 
-**Kommuniser realistiske tidslinjer.**  Være ærlig med interessenter. Hvis noe tar lengre tid enn planlagt, si fra tidlig og forhandle nye frister. Det er bedre enn å love noe umulig og levere for sent. (Indeed Editorial Team, n.d.)
+**Kommuniser realistiske tidslinjer.**  Være ærlig med interessenter. Hvis noe tar lengre tid enn planlagt, si fra tidlig og forhandle nye frister. Det er bedre enn å love noe umulig og levere for sent. (Indeed Editorial Team, 2025)
 
 **Visualiser implementering.**  Forskning viser at det å konkret se for seg når og hvor man skal jobbe på oppgaven («implementation intention») gjør «goal-setting» mer realistisk og gjennomførbar.
 
@@ -115,7 +115,7 @@ Ved å bruke historiske data, bryte ned oppgaver, legge til buffer, og ha åpen 
 ---
 
 ## 6. God kommunikasjon i teamet 
-Effektiv kommunikasjon utgjør en grunnleggende forutsetning for å lykkes i prosjektarbeid, særlig i heterogene og tverrfaglige team som det Erling skal lede. Kommunikasjon kan forstås både som en teknisk prosess for informasjonsutveksling og som en sosial prosess for å skape felles mening og forståelse (Jacobsen & Thorsvik, s. 9, 2019). For å sikre god kommunikasjon i prosjektet bør prosjektlederen derfor etablere både strukturelle rammer og en samarbeidskultur som fremmer åpenhet, tillit og gjensidig respekt.
+Effektiv kommunikasjon utgjør en grunnleggende forutsetning for å lykkes i prosjektarbeid, særlig i heterogene og tverrfaglige team som det Erling skal lede. Kommunikasjon kan forstås både som en teknisk prosess for informasjonsutveksling og som en sosial prosess for å skape felles mening og forståelse (Jacobsen & Thorsvik, 2019, s. 9). For å sikre god kommunikasjon i prosjektet bør prosjektlederen derfor etablere både strukturelle rammer og en samarbeidskultur som fremmer åpenhet, tillit og gjensidig respekt.
 
 En sentral utfordring i prosjektarbeid er risikoen for informasjonsasymmetri, der enkelte aktører har tilgang til mer eller bedre informasjon enn andre. Dette kan føre til misforståelser, ineffektivitet og i verste fall konflikter. For å motvirke dette bør prosjektlederen definere klare kommunikasjonskanaler og prosedyrer. I tillegg til de tekniske løsningene må kommunikasjonen ivaretas gjennom regelmessige møtepunkter. Faste statusmøter med tydelig agenda og skriftlige oppsummeringer bidrar til å skape transparens og sikre at alle teammedlemmer har en felles forståelse av fremdrift og utfordringer. 
 
@@ -130,18 +130,16 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 - Gjøsund, P., & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
 
+- Indeed Editorial Team. (2025, 26. juli). *Time management in project management: Definition, benefits and tips.* Indeed. https://www.indeed.com/career-advice/career-development/time-in-project-management
+
 - Jacobsen, D. I. & Thorsvik, J. (2019). *Hvordan organisasjoner fungerer* (5. utg.). Fagbokforlaget
 
+- Memtime. (2024, 3. april). *How to avoid the planning fallacy.* Memtime. https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy
 
-- Indeed Editorial Team. (n.d.). *Time management in project management: Definition, benefits and tips.* Indeed. https://www.indeed.com/career-advice/career-development/time-in-project-management
-
-
-- Memtime. (2024, April 3). *How to avoid the planning fallacy.* Memtime. https://www.memtime.com/blog/how-to-avoid-the-planning-fallacy
-
-- Ohai. (2023, July 6). *The planning fallacy: Why we underestimate projects (and how to fix it).* Ohai. https://www.ohai.ai/blog/planning-fallacy
+- Ohai. (2023, 6. juli). *The planning fallacy: Why we underestimate projects (and how to fix it).* Ohai. https://www.ohai.ai/blog/planning-fallacy
 
 - Rolstadås, A. (2025, 30. juni). *Prosjektplanlegging.* Store norske leksikon. https://snl.no/prosjektplanlegging
 
-- Sagberg, I. (2020). *Psykologisk trygghet.* Store norske leksikon. https://snl.no/psykologisk_trygghet 
+- Sagberg, I. (2020, 16. oktober). *Psykologisk trygghet.* Store norske leksikon. https://snl.no/psykologisk_trygghet 
 
 - Wahl, A. C. (2025, 30. september). *Relasjonelle kontrakter: Nøkkelen til bedre samarbeid og langsiktig suksess.* Bull. https://www.bull.no/artikler/anskaffelser/relasjonelle-kontrakter
