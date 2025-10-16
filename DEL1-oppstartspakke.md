@@ -128,7 +128,7 @@ Samlet sett kan man si at god kommunikasjon i et prosjekt som dette krever en ba
 
 ### Kilder
 
-- Gjøsund, P., & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
+- Gjøsund, P. & Huseby, R. (2015). *To eller flere…: Basiskunnskaper i gruppepsykologi* (4. utg.). Cappelen Damm Akademiske.
 
 - Indeed Editorial Team. (2025, 26. juli). *Time management in project management: Definition, benefits and tips.* Indeed. https://www.indeed.com/career-advice/career-development/time-in-project-management
 
