@@ -12,9 +12,7 @@ def les_valg(test):
 # her begynner historien selve historien min.
 # intro funksjon viser litt teskt om Erling, teamet og storming-fase.
 def intro ():
-    print("----")
     print("Erling og Medborgerportalen")
-    print("----")
     print()
 
     print("Erling er prosjektleder for digital medborgerportal.")
@@ -57,15 +55,15 @@ def beslutning_1():
 # Bruker må skrive 1 eller 2, og funksjon les_valg sjekke det for meg
 #Så returnere jeg valget så jeg kan bruker det senere i historien. 
 
-    valge1 = les_valg("skriv 1 eller 2 for beslutning 1: ")
-    return valge1
+    return les_valg("skriv 1 eller 2 for beslutning 1: ")
+    
 
 # Denne function er for andre valg i historien.
 # handler om Hamdi og Jabir som er uenige om  folkemøter.
 # Prøver viser to valg som Erling kan gjøre, enten snakke med dem sammen, eller bare vente. begge valg kan gi forskjellig konsekvens.
 
 def beslutning_2():
-    print("\n--- Beslutning 2: Hamdi og Jabir krangler ---\n")
+    print("\n- Beslutning 2: Hamdi og Jabir krangler -\n")
     print("Hamdi vil bruke kommunens eksisterende plattform for folkemøter.")
     print("Jabir vil ha mer åpen løsning med fri dialog.")
     print("Uenighet er ikke eksplosijon enda, men den ulmer litt.")
@@ -77,15 +75,15 @@ def beslutning_2():
     print ("2) Avvente og håpe de ordne selv (2B).")
     print(" Du sparer tid nå, mem risiko for mer konflikt senere.")
 
-    valge2 = les_valg("skrive 1 eller 2 for beslutning 2:")
-    return valge2
+    return les_valg("skrive 1 eller 2 for beslutning 2:")
+    
 
 #Dette e 3 og siste valg , her er fokus  på motivasjon i teamet.
 #Erling må velge enten sosial aktivitet (3A) eller presse på leveranse (3B)
 #dette valget påvirker slutten ganske mye.
 
 def beslutning_3():
-    print("\n--- Beslutning 3: Motivasjon i teamet ---\n")
+    print("\n- Beslutning 3: Motivasjon i teamet -\n")
     print ("Teamet ser sliten ut. Lav energi.")
     print ("Konflikter blir ikke snakka om, men de er ikke borte.")
     print("Tre uker igjen til prototype ska leveres.")
@@ -99,14 +97,14 @@ def beslutning_3():
     print(" Du deler ut konkrete oppgaver med korte frister.")
     print(" Ingen tid satt av til å snakke om samarbeid. ")
 
-    valge3 = les_valg("Skriv 1 eller 2 for beslutning 3: ")
-    return valge3
+    return les_valg("Skriv 1 eller 2 for beslutning 3: ")
+    
 
 # Dette e  beste utfall i historien, here har Erling tatt gode og fokusert på både konflikt og motivasjon.
 #Teamet får bedre samarbeid og prototype blir levert bra.
 
 def utfall_best():
-    print ("\n--- Utfall 1: Tillit bygges og samarbeid blir bedre ---\n")
+    print ("\n- Utfall 1: Tillit bygges og samarbeid blir bedre -\n")
     print ("Du tok tak i konflikt (for eksempel ved å snakke med folk og eller ha møte),")
     print("og du valgte også å bruke tid på trygghet og sosial aktivitet (3A).")
     print()
@@ -120,7 +118,7 @@ def utfall_best():
 #prototype blir levert, men samarbeidet er litt sårbart.
 
 def utfall_midt():
-    print ("\n---- Utfall 2: Leveranse, men motivajson er ustabil ----\n")
+    print ("\n- Utfall 2: Leveranse, men motivajson er ustabil -\n")
     print ("Noen problemer bler løst, men ikke alle.")
     print ("Du har kanskje tatt et bra valg og et mindre bra, eller presser mer ")
     print("på leveranse enn på relasjoner.")
@@ -133,7 +131,7 @@ def utfall_midt():
 #dette e dårligste utfall. Erling har unngått konflikt og bare pressa på levering.
 #teamet blir frustrert, prototype blir forsinka og relasjoner blir dårlige.
 def utfall_worst():
-    print("\n--- Utfall 3: Forsinket prosjekt og dårlige relasjoner---\n")
+    print("\n- Utfall 3: Forsinket prosjekt og dårlige relasjoner-\n")
     print ("Du har stort sett ikke tatt tak i konflikter (1B + 2B),")
     print(" og du valget bare å presse på leveranse (3B).")
     print()
@@ -146,10 +144,10 @@ def utfall_worst():
 #Har tatt minst ett aktivt konflikt valg og motivasjonstiltak
 #Har unngått konflikt hele veien og bare pressa på levering
 #Alle andre kombinasjin går til midten. 
-def beregn_utfall(valg1, valg2, valg3):
-    if valg3 =="1" and (valg1=="1" or valg2=="1"):
+def beregn_utfall(v1, v2, v3):
+    if v3 =="1" and (v1=="1" or v2=="1"):
         utfall_best()
-    elif valg3=="2" and valg1=="2" and valg2=="2":
+    elif v3=="2" and v1=="2" and v2=="2":
         utfall_worst()
     else:
         utfall_midt()
@@ -157,7 +155,7 @@ def beregn_utfall(valg1, valg2, valg3):
 
 #denne funksjon er bare liten oppsummering. Jeg prøver forklare kort hva storming-fase betyr, og hvordan valgene brukeren tok påvirke slutten.
 def refleksjon():
-    print("\n---- kort refleksjon ----\n")
+    print("\n- kort refleksjon -\n")
     print("Storming-fase betyr ikke at gruppa er ødelagt.")
     print("Det er naturlig del når folk har ulike perspektiv og vil noe annet.")
     print("Men hvis leder ikke tar tak, kan grupp bli stående fast i stormen.")
@@ -170,11 +168,11 @@ def refleksjon():
 #Helt til slutt viser jeg refleksjon og en liten takk tekst. 
 def main():
     intro()
-    valg1=beslutning_1()
-    valg2=beslutning_2()
-    valg3=beslutning_3()
+    v1=beslutning_1()
+    v2=beslutning_2()
+    v3=beslutning_3()
 
-    beregn_utfall(valg1, valg2, valg3)
+    beregn_utfall(v1, v2, v3)
     refleksjon()
     print()
 
