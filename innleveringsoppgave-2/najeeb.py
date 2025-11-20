@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 # Interaktiv historie for del 2.
 # Programmet bruker tre valg.
 # Hvert valg lagres i en variabel.
