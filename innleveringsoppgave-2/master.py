@@ -32,7 +32,7 @@ def intro():
     print("---------------------------------")
     print()
 
-#i NEste delen må lage selve valgene som brukeren skal ta.
+#I den neste delen laget vi selve valgene som brukeren skal ta.
 #Her vil brukeren bli presentert for en situasjon og to valg.
 #Brukeren må så velge ett av de to alternativene.
 #Hver funksjon returnerer valget som brukeren gjør.
@@ -41,7 +41,9 @@ def avgjørelse1():
     print("Beslutning 1:")
     print("Hvordan vil du håndtere uenigheten i teamet?")
     print("Silje vil ha fancy funksjoner og innovasjon.\nMen Sivert vil heller fokusere på det grunnleggende og enkleste.")
+    print()                         #legger inn print for linjeskift
     print("----------------------------------")
+    print()                                   #legger inn print for linjeskift
     print("Hvordan kan dette løses?")
     print("1: Ha en individuell samtale med begge for å forstå deres perspektiver.")
     print("2: Involvere HR da de har et bedre grunnlag for å håndtere konflikter.")
@@ -57,7 +59,9 @@ def avgjørelse2():
     print("Beslutning 2:")
     print("Hamdi ønsker faste og regelmessige møter for å holde alle oppdatert.")
     print("Jabir vil heller ha uformell dialog, og korte oppdateringer.")
+    print()                         #legger inn print for linjeskift
     print("----------------------------------")
+    print()                         #legger inn print for linjeskift
     print("Hvordan kan dette løses?")
     print("1: Foreslå en hybrid tilnærming med både faste møter og uformelle oppdateringer.")
     print("2: La teamet bestemme hva de foretrekker.")
@@ -73,6 +77,7 @@ def avgjørelse3():
     print("Teamet viser preg av innsatsen og er slitne.")
     print("Som nevnt i oppgaven, er det 3 uker igjen til fristen.")
     print("----------------------------------")
+    print()                      #legger inn print for linjeskift
     print("Hvordan kan dette løses?")
     print("1: Arranger en revy for å lette stemningen og motivere teamet, samt fange innspill.")
     print("2: Øk tempoet og sett klare mål for de siste ukene.")
